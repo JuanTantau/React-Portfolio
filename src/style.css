@@ -1,0 +1,85 @@
+body {
+    color: blue;
+}
+
+header {
+    padding: 20px 35px;
+    background-color: clear;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;
+}
+
+header a {
+    text-decoration: none;
+    color: green;
+    -ms-text-overflow: ;
+}
+
+header nav {
+    float: right;
+    margin: -70px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+footer {
+    background: #e40b0b;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+footer h2 {
+    display: inline;
+    color: black;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer a {
+    color: green;
+}
+
+section {
+    padding: 60px;
+}
+
+body {
+    background-image: url("../public/images/compute-ea4c57a4.png");
+    background-color: #cccccc;
+}
+
+image {
+    size-adjust: 50px;
+}
+
+div {
+    position: top;
+    width: 300px;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
+}
+
+.My_Picture {
+    margin-left: 20px;
+}
